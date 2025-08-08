@@ -1,0 +1,105 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: Hosts contributed by Steven Black
+# http://stevenblack.com
+
+0.0.0.0       assinador-desktop.serpro.gov.br
+0.0.0.0       youtube.com
+0.0.0.0       www.youtube.com
+0.0.0.0       facebook.com
+0.0.0.0       www.facebook.com
+0.0.0.0       pt-br.facebook.com
+0.0.0.0       www.pt-br.facebook.com
+0.0.0.0       instagram.com
+0.0.0.0       www.instagram.com
+0.0.0.0       tiktok.com
+0.0.0.0       www.tiktok.com
+0.0.0.0       web.whatsapp.com
+0.0.0.0       www.web.whatsapp.com
+0.0.0.0       snapchat.com
+0.0.0.0       www.snapchat.com
+0.0.0.0       globoplay.globo.com
+0.0.0.0       www.globoplay.globo.com
+0.0.0.0       vitrine.globo.com
+0.0.0.0       www.vitrine.globo.com
+0.0.0.0       authx.globoid.globo.com
+0.0.0.0       www.authx.globoid.globo.com
+0.0.0.0       disney.com.br
+0.0.0.0       www.disney.com.br
+0.0.0.0       disney.com
+0.0.0.0       www.disney.com
+0.0.0.0       disneyplus.com
+0.0.0.0       www.disneyplus.com
+0.0.0.0       espn.com.br
+0.0.0.0       www.espn.com.br
+0.0.0.0       clarotvmais.com.br
+0.0.0.0       www.clarotvmais.com.br
+0.0.0.0       planos.clarotvcombo.com.br
+0.0.0.0       www.planos.clarotvcombo.com.br
+0.0.0.0       www.twitter.com
+0.0.0.0       www.x.com
+0.0.0.0       x.com
+0.0.0.0       twitter.com
+0.0.0.0       unochapeco.edu.br
+0.0.0.0       www.unochapeco.edu.br
+0.0.0.0       www.unochapeco.edu.br/minhauno/
+0.0.0.0       unochapeco.edu.br/minhauno/
+0.0.0.0       acad.unoesc.edu.br/academico/login.jsp
+0.0.0.0       www.acad.unoesc.edu.br/academico/login.jsp
+0.0.0.0       unoesc.edu.br
+0.0.0.0       www.unoesc.edu.br
+0.0.0.0       acad.unoesc.edu.br
+0.0.0.0       www.acad.unoesc.edu.br
+0.0.0.0       login.unopar.br
+0.0.0.0       www.login.unopar.br
+0.0.0.0       www.unopar.com.br
+0.0.0.0       unopar.com.br
+0.0.0.0       login.kroton.com.br
+0.0.0.0       www.login.kroton.com.br
+0.0.0.0       portal.uceff.edu.br
+0.0.0.0       www.portal.uceff.com.br
+0.0.0.0       loginservice.uceff.edu.br
+0.0.0.0       www.loginservice.uceff.edu.br
+0.0.0.0       www.uceff.edu.br
+0.0.0.0       uceff.edu.br
+0.0.0.0       areasegura.uniasselvi.com.br
+0.0.0.0       www.areasegura.uniasselvi.com.br
+0.0.0.0       portal.uniasselvi.com.br
+0.0.0.0       www.portal.uniasselvi.com.br
+0.0.0.0       ava2.uniasselvi.com.br
+0.0.0.0       www.ava2.uniasselvi.com.br
+0.0.0.0       apps.microsoft.com/detail/9nksqgp7f2nh?hl=pt-BR&gl=BR
+0.0.0.0       www.apps.microsoft.com/detail/9nksqgp7f2nh?hl=pt-BR&gl=BR
+0.0.0.0       www.whatsapp.com/download?lang=pt_BR
+0.0.0.0       whatsapp.com/download?lang=pt_BR
+0.0.0.0       www.whatsapp.com
+0.0.0.0       whatsapp.com
+0.0.0.0       whatsapp.softonic.com.br
+0.0.0.0       www.whatsapp.softonic.com.br
+0.0.0.0       www.netflix.com
+0.0.0.0       netflix.com
+0.0.0.0       max.com
+0.0.0.0       www.max.com
+0.0.0.0       www.primevideo.com
+0.0.0.0       primevideo.com
+192.168.22.141		glpi.local
